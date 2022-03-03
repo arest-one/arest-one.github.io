@@ -1,10 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
-
-# Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/xloot-mc.png"
-
-# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
@@ -13,5 +10,4 @@ aux_links:
   "YouTube":
     - "https://youtube.com/channel/UC2Ep5yOnfwSLRDOfN6k6mFA?sub_confirmation=1"
 
-# Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
