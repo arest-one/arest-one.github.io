@@ -5,3 +5,13 @@ logo: "/assets/images/xloot-mc.png"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+# Aux links for the upper right navigation
+aux_links:
+  "Discussion":
+    - "https://github.com/xloot-mc/xloot-mc.github.io/discussions"
+  "YouTube":
+    - "https://youtube.com/channel/UC2Ep5yOnfwSLRDOfN6k6mFA?sub_confirmation=1"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
